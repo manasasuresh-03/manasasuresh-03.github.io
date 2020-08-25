@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>First Web Page</title>
+</head>
+<body>
+	<header> <h1>Manasa Suresh</h1> </header>
+	<h2>Favorite Foods</h2>
+	<ul>
+	    <li>Pizza</li>
+	    <li>Sorbet</li>
+	    <li>Hashbrowns</li>
+	    <li>Momos</li>
+	</ul>
+	<div> &nbsp&nbsp&nbsp&nbsp Some links for recipes
+	<a href="https://www.indianhealthyrecipes.com/pizza-recipe-make-pizza/" target=blank>Pizza</a>
+	<a href="https://leitesculinaria.com/76386/recipes-watermelon-sorbet.html" target=blank>Sorbet</a>
+	<a href="https://lovingitvegan.com/vegan-hash-browns/" target=blank>Hashbrowns</a>
+	<a href="https://www.vegrecipesofindia.com/veg-momos-recipe-vegetable-momos/" target=blank>Momos</a>
+
+	<h2>Achievements</h2>
+	<ol>
+	    <li>Progress in this course(100%) <progress max="100" value="100"></progress>
+	    </li>
+	    <li>Progress in specialisation(20%) <progress max="100" value="20"></progress>
+	    </li>
+	    <li>Progress in life goals(35%) <progress max="100" value="35"></progress>
+	    </li>
+	</ol>
+
+	<section>
+	<h2>More About Me</h2>
+	<details open>
+	<summary>My Childhood</summary>
+	<p>I grew up in Bangalore. I miss the greenery of my place</p>
+	</details>
+	</section>
+	<img src="wd4e.jpg" alt="WD4E"/>
+	<p>To learn more about web design, visit <a href="http://intro-webdesign.com">Intro To Web Design</a>
+	
+</body>
+</html>
+
+
+
